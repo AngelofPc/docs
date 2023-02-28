@@ -59,6 +59,11 @@ const sidebars = {
     },
 
     // Connect to a contract
+    {
+      type: "doc",
+      label: "Connect to a Contract",
+      id: "thirdwebsdk.getcontract",
+    },
 
     // Interacting with contracts
     {
