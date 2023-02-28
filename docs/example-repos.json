@@ -277,7 +277,7 @@
     "html_url": "https://github.com/thirdweb-example/dao",
     "description": "Build a DAO using thirdweb's vote, token, and edition drop contracts.",
     "created_at": "2022-05-17T11:42:42Z",
-    "updated_at": "2023-01-15T10:05:16Z",
+    "updated_at": "2023-02-27T07:45:14Z",
     "clone_url": "https://github.com/thirdweb-example/dao.git",
     "topics": [
       "edition-drop",
@@ -285,7 +285,7 @@
       "vote"
     ],
     "language": "JavaScript",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "is_template": false,
     "homepage": "https://dao.thirdweb-example.com"
   },
@@ -714,14 +714,14 @@
     "html_url": "https://github.com/thirdweb-example/marketplace-v3",
     "description": "Create your own NFT marketplace where users can buy and sell NFTs!",
     "created_at": "2023-01-31T03:33:27Z",
-    "updated_at": "2023-02-25T20:44:57Z",
+    "updated_at": "2023-02-27T15:34:03Z",
     "clone_url": "https://github.com/thirdweb-example/marketplace-v3.git",
     "topics": [
       "marketplace",
       "nft-marketplace"
     ],
     "language": "TypeScript",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "is_template": false,
     "homepage": "https://marketplace-v3.thirdweb-preview.com"
   },
@@ -879,7 +879,7 @@
     "html_url": "https://github.com/thirdweb-example/nft-gated-website",
     "description": "Restrict access to content based on the ownership of an NFT",
     "created_at": "2022-04-08T17:59:57Z",
-    "updated_at": "2023-02-22T23:39:48Z",
+    "updated_at": "2023-02-27T20:24:05Z",
     "clone_url": "https://github.com/thirdweb-example/nft-gated-website.git",
     "topics": [
       "auth",
@@ -890,7 +890,7 @@
       "wallet-connection"
     ],
     "language": "JavaScript",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "is_template": false,
     "homepage": "https://nft-gated-website.thirdweb-example.com"
   },
@@ -1133,11 +1133,11 @@
     "html_url": "https://github.com/thirdweb-example/shopify-sell-nfts",
     "description": "Sell NFTs in FIAT currency using a Shopify store and webhooks!",
     "created_at": "2022-10-06T01:28:05Z",
-    "updated_at": "2023-02-24T13:03:17Z",
+    "updated_at": "2023-02-27T20:46:28Z",
     "clone_url": "https://github.com/thirdweb-example/shopify-sell-nfts.git",
     "topics": [],
     "language": "JavaScript",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "is_template": false,
     "homepage": null
   },
@@ -1336,14 +1336,14 @@
     "html_url": "https://github.com/thirdweb-example/thirdweb-auth-next-auth",
     "description": "Enable wallet-based login with thirdweb Auth & Next Auth",
     "created_at": "2022-08-30T21:44:52Z",
-    "updated_at": "2023-02-24T19:10:06Z",
+    "updated_at": "2023-02-27T10:56:47Z",
     "clone_url": "https://github.com/thirdweb-example/thirdweb-auth-next-auth.git",
     "topics": [
       "auth",
       "nextauth"
     ],
     "language": "TypeScript",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "is_template": false,
     "homepage": ""
   },
@@ -1410,14 +1410,14 @@
     "html_url": "https://github.com/thirdweb-example/thirdweb-stripe",
     "description": "Subscription based payments for web3 apps using thirdweb authentication and stripe",
     "created_at": "2022-06-19T02:19:09Z",
-    "updated_at": "2023-02-05T00:11:16Z",
+    "updated_at": "2023-02-27T08:07:46Z",
     "clone_url": "https://github.com/thirdweb-example/thirdweb-stripe.git",
     "topics": [
       "auth",
       "stripe"
     ],
     "language": "TypeScript",
-    "stargazers_count": 35,
+    "stargazers_count": 34,
     "is_template": false,
     "homepage": ""
   },

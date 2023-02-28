@@ -48,13 +48,13 @@ Create an instance of the thirdweb SDK. Requires a webGL browser context.
 
 Get an instance of a deployed contract.
 
-### Parameters
+# Parameters
 
 - `address` The contract address
 
 - `abi` Optionally pass the ABI for contracts that cannot be auto resolved. Expected format for the ABI is escaped JSON string
 
-#### Returns
+### Returns
 
 A contract instance
 
